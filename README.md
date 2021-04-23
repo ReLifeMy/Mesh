@@ -1,9 +1,11 @@
-### 👋 Hi, I’m ReLifeMy
-> I’m interested in coding.
+### 👋 Hi, I’m ReLife-My
+I’m interested in coding.
 Recently, I'm learning C++ / Python and later with some frontend languages.
-DS and A will be accomplished in summer vacation.
+Moreover, DS and A will be accomplished in summer vacation.
 
-###### List is showing below.
+---
+
+#### Learning list is showing below.
 - C++ 
 - Python
 - Html
@@ -11,3 +13,7 @@ DS and A will be accomplished in summer vacation.
 - JavaScript
 - Data Structure
 - Algorithm
+
+---
+
+> Hello World!   Hello the Morning Rain!
