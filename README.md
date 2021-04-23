@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m ReLife-My
-I’m interested in coding.
-Recently, I'm learning C++ / Python and later with some frontend languages.
+I’m interested in coding. 
+Recently, I'm learning C++ / Python and later with some frontend languages. 
 Moreover, DS and A will be accomplished in summer vacation.
 
 ---
