@@ -16,8 +16,6 @@ Moreover, DS and A will be accomplished in summer vacation.
 
 ---
 
-> Hello World!
-
-> Hello the Morning Rain!
+> I'm glad to watch the same view wity you, Hello World!
 
 ![](https://upload.cc/i1/2021/04/24/KrQWw6.png)
