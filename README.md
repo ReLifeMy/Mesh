@@ -15,7 +15,7 @@ Moreover, DS and A will be accomplished in summer vacation.
 - Algorithm
 
 #### In case of forgetting.
-> #### Pwn.tw
+> Pwn.tw
 - Orange Tsai
 - Meh
 - angelboy
