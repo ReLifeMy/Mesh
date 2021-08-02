@@ -22,5 +22,5 @@ Recently, I am reading C++ Primer 5/e, hoping I will finish it before summer vac
 
 ---
 
-驚いた？
 ![](https://upload.cc/i1/2021/08/02/UGvipK.jpg)
+                                                       驚いた？
