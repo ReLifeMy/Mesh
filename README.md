@@ -1,4 +1,4 @@
-### 👋 Hi, I’m ReLife-My
+### 👋 Hi, I’m Mesh
 I’m interested in coding.
 Recently, I am reading C++ Primer 5/e, hoping I will finish it before summer vacation.
 
